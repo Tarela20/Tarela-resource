@@ -1,0 +1,80 @@
+Azure Account Setup Guide
+This guide provides step-by-step instructions for creating a Microsoft Azure account, navigating the Azure Portal, and configuring essential security settings.
+ Prerequisites
+Before you begin, ensure you have:
+A valid email address (Gmail, Outlook, etc.)
+A phone number for verification
+A web browser (Chrome, Edge, Firefox)
+
+1. Creating an Azure Account
+* Step 1: Create a Microsoft Account
+Azure requires a Microsoft account.
+Go to: Microsoft Account Signup
+Click “Create account”
+Enter your email address or create a new Outlook email
+Set a strong password
+Verify your email and phone number
+* Step 2: Sign Up for Azure
+Visit: Microsoft Azure
+Click “Start free”
+Sign in with your Microsoft account
+Provide:
+Country/Region (e.g., Nigeria)
+Phone number
+Billing information (required for identity verification)
+Accept the terms and complete verification
+ You may receive free Azure credits for 30 days and access to selected free services.
+2. Navigating the Azure Portal
+Access the portal here: Azure Portal
+Key Areas:
+* Dashboard
+Overview of your resources
+Quick access to services
+* All Services
+Browse compute, storage, networking, databases, etc.
+* Resource Groups
+Organize related resources (VMs, storage, databases)
+* Cost Management
+Monitor usage and billing
+Set budgets and alerts
+* Search Bar
+Quickly find services like “Virtual Machines” or “Storage Accounts”
+3. Security Setup 
+Step 1: Enable Multi-Factor Authentication (MFA)
+Go to: https://aka.ms/mfasetup
+Sign in to your Microsoft account
+Enable MFA using:
+Authenticator app (recommended)
+SMS verification
+Step 2: Set Up Role-Based Access Control (RBAC)
+In Azure Portal ? Search “Subscriptions”
+Select your subscription
+Go to Access Control (IAM)
+Assign roles:
+Owner (full control)
+Contributor (manage resources)
+Reader (view only)
+Step 3: Create Budget Alerts
+Go to Cost Management + Billing
+Click Budgets
+Set a monthly budget limit
+Add email alerts (e.g., 80%, 100%)
+Step 4: Enable Security Center Recommendations
+Search Microsoft Defender for Cloud
+Review security score
+Apply recommended fixes (firewall, encryption, etc.)
+
+4. Best Practices
+Always use MFA
+Avoid using root/admin account for daily tasks
+Regularly monitor billing dashboard
+Organize resources using tags and resource groups
+Delete unused resources to avoid charges
+
+?? Useful Links
+Azure Official Website: Microsoft Azure
+Azure Portal: Azure Portal
+Microsoft Account: Microsoft Account
+MFA Setup: https://aka.ms/mfasetup
+
+
